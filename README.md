@@ -52,3 +52,5 @@ Dentro de Airflow, configura la conexión a la base de datos PostgreSQL utilizan
 A continuación, se muestra la arquitectura del pipeline utilizado en este proyecto:
 
 ![Arquitectura del Pipeline](https://github.com/Danirive30/Amazon_Books-ETL/blob/main/Pipeline_AB.png)
+
+# Amazon_Books-ETL
